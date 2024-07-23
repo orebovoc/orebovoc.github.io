@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orebovoc.github.io/sitemap
+Sitemap: https://orebovoc.github.io/app/sitemap
+Sitemap: https://orebovoc.github.io/assets/sitemap
+Sitemap: https://orebovoc.github.io/css/sitemap
+Sitemap: https://orebovoc.github.io/includes/sitemap
+Sitemap: https://orebovoc.github.io/item/sitemap
+Sitemap: https://orebovoc.github.io/src/sitemap
